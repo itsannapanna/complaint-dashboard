@@ -8,8 +8,8 @@ Built to simulate a data analyst role in the financial services sector (e.g. HSB
 
 ## 🔍 Features
 
-- 📊 **Complaint Volume Trends**: Track complaints over time using monthly resampling
-- 💬 **Sentiment Analysis**: Applied VADER to classify complaint narratives into Positive, Neutral, or Negative
+-  **Complaint Volume Trends**: Track complaints over time using monthly resampling
+-  **Sentiment Analysis**: Applied VADER to classify complaint narratives into Positive, Neutral, or Negative
 -  **Interactive Filters**: Slice data by Product, Issue Type, and Sentiment
 -  **Regulatory KPIs**: Calculate % Timely Response and % Disputed flags per company
 -  **Streamlit UI**: Built a clean, lightweight dashboard using Streamlit with sidebar filters and auto-updating charts
